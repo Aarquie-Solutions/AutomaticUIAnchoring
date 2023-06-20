@@ -1,7 +1,7 @@
 {
-  "name": "com.aarquiesolutions.packagename",
-  "displayName": "Unity Package Template",
+  "name": "com.aarquiesolutions.automaticuianchoring",
+  "displayName": "Automatic UI Anchoring",
   "version": "1.0.0",
-  "description": "Description",
-  "type": "library"
+  "description": "Automatically anchor rect transform correctly",
+  "type": "tool"
 }

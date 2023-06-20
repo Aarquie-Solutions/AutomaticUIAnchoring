@@ -1,6 +1,6 @@
 {
-    "name": "aarquiesolutions.unitypackagetemplate.editor",
-    "rootNamespace": "AarquieSolutions.UnityPackageTemplate.Editor",
+    "name": "aarquiesolutions.automaticuianchoring.editor",
+    "rootNamespace": "AarquieSolutions.AutomaticUIAnchoring.Editor",
     "references": [
         "aarquiesolutions.unitypackagetemplate"
     ],
